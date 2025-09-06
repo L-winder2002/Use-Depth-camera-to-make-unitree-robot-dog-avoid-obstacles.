@@ -5,7 +5,7 @@
 > Demo：https://youtu.be/TyCdeRsappY
 
 ![ROS2 Humble](https://img.shields.io/badge/ROS2-Humble-blue)
-![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Python 3.10](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Ultralytics YOLOv8](https://img.shields.io/badge/YOLOv8-ultralytics-orange)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
