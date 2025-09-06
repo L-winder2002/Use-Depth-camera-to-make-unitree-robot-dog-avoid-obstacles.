@@ -132,7 +132,9 @@ ros2 launch realsense2_camera rs_launch.py （根据你的相机启动方式自�
 ```
 ros2 topic list
 ```
-正常情况下可以看到/camera/color/image_raw，/camera/depth/image_rect_raw等话题
+正常情况下可以看到如下话题：
+
+![/camera/color/image_raw，/camera/depth/image_rect_raw等](docs/机器狗topiclist.png)
 
 3) source相关setup文件
 ```
@@ -146,3 +148,4 @@ source install/setup.bash
 ```
 ros2 run vision_obstacle_detection vision_obstacle_detection_node
 ```
+![实验结果](docs/实机实验.png)
