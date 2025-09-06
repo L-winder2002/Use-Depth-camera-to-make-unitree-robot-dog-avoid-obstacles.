@@ -2,7 +2,7 @@
 实时视觉避障与导航系统：**Intel RealSense D435i** 深度、**YOLOv8** 目标检测、**ROS 2** 感知-建图-规划链路、**A\*** 局部路径，适配 **Unitree Go2**（实机）与 **Isaac Sim**（仿真）。
 
 > 论文：*Path planning and guidance for quadruple legged robots through obstacles using YOLOv8 and A-Star with ROS2 and Isaac Sim*（ICASSE，一作）  
-> Demo：**TODO**（放 B 站/YouTube/GIF 链接）
+> Demo：https://youtu.be/TyCdeRsappY
 
 ![ROS2 Humble](https://img.shields.io/badge/ROS2-Humble-blue)
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
