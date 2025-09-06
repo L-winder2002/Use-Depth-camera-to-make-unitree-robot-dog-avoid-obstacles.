@@ -22,6 +22,7 @@
 ---
 
 ## 🗂️ Repo 结构
+```
 .
 ├─ model_data/                  # YOLO 权重/类别
 ├─ nets/                        # YOLO 推理/后处理
@@ -32,7 +33,7 @@
 ├─ yolo_box.py                  # YOLO 检测与 bbox 处理
 ├─ vision_obstacle_detection_node.py  # 主节点（感知→深度→地图→规划→控制）
 └─ launch/                      # TODO: launch 文件
-
+```
 ---
 
 ## 🛠️ 环境要求
